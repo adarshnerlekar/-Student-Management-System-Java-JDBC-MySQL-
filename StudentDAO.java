@@ -9,7 +9,7 @@ public class StudentDAO
 	   static String jdbc_Driver="com.mysql.cj.jdbc.Driver";
 	    static String url = "jdbc:mysql://localhost:3306/mystudentdata";
 	    static String user = "root";
-	    static String password = "adarsh@2004";
+	    static String password = "---";
 
 	    public static void insertStudent(student s) {
 	        try {
